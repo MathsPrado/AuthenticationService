@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "1xXhmB781MxKPd1k7Zpc1HZ1tBvvGaP8hO7+hcWHcCJ0CdQ9SwI8q0gsbiaCZ6/q3P4lzynNpCYHpi8azDIU9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathe\\Pictures\\.net\\Projects\\AutenticationService\\AutenticationService\\AutenticationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.28.0\\microsoft.identitymodel.abstractions.6.28.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.28.0\\microsoft.identitymodel.jsonwebtokens.6.28.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.identitymodel.logging\\6.28.0\\microsoft.identitymodel.logging.6.28.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.28.0\\microsoft.identitymodel.tokens.6.28.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.28.0\\system.identitymodel.tokens.jwt.6.28.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
