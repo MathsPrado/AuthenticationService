@@ -14,5 +14,9 @@
             Password = password;
             Role = role;
         }
+
+        public User()
+        {
+        }
     }
 }

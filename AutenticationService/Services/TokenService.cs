@@ -10,7 +10,7 @@ namespace AutenticationService.Services
 {
     public class TokenService : ITokenService
     {
-        public async Task<string> GenerateToken(UsertDTO user)
+        public async Task<string> GenerateToken(UserDTO user)
         {
             var tokenHendler = new JwtSecurityTokenHandler();
             var key = Encoding.ASCII.GetBytes(Settings.Secred);
